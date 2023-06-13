@@ -120,7 +120,7 @@ body {
 width: 50%;
 
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
 
 .cabecalho {
     padding: 5%;
@@ -138,6 +138,10 @@ width: 50%;
 
 .apresentacao {
     flex-direction: column-reverse;
+}
+.apresentacao-botoes-redesocial {
+   width:;
+    padding: 14px;
 }
 
 }
