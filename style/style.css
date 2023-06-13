@@ -123,13 +123,14 @@ width: 50%;
 @media (max-width: 1024px) {
 
 .cabecalho {
-    padding: 5%;
+    padding: 10%;
+    
 }
    
 .cabecalho-menu {
     display: flex;
-    flex-direction: column;
-    gap: 10px;
+    /*flex-direction: column;*/
+    gap: 15px;
 }
 
 .apresentacao-conteudo {
